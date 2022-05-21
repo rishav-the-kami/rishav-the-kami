@@ -1,4 +1,4 @@
-👋 Hi, I’m @rishav-the-kami\
+👋 Hi, I’m Rishav\
 👀 I’m interested in Web Development, Android Development\
 📫 How to reach me:
 - instagram: https://instagram.com/rishav._.akabane
