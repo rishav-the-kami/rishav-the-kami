@@ -1,9 +1,9 @@
 👋 Hi, I’m Rishav\
 👀 I’m interested in Web Development, Android Development\
 📫 How to reach me:
-- Instagram: https://instagram.com/rishav._.akabane
+- Instagram: https://instagram.com/rishav_bozo
 - Twitter: https://twitter.com/HelioRishav
-- Discord: Kami~#6360\
+- Discord: Kami~#6360 (Deactivated)\
 \
 ![alt text](https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwEC-W0K19v5TqcIjpzvJ0Ho)
 <!---
