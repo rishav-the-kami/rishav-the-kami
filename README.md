@@ -1,5 +1,5 @@
 👋 Hi, I’m Rishav\
-👀 I’m interested in Web Development, Android Development\
+👀 I ***WAS*** interested in Web Development, Android Development\
 📫 How to reach me:
 - Instagram: https://instagram.com/rishav_bozo
 - Twitter: https://twitter.com/HelioRishav
