@@ -1,4 +1,4 @@
-![image](https://github.com/rishav-the-kami/rishav-the-kami/assets/105970051/39a79c51-e23d-486b-8b6e-9bc8996b3924)👋 Hi, I’m Rishav\
+👋 Hi, I’m Rishav\
 👀 Currently a React Native developer.
 
 - Instagram: @rishavsarkar.exe
