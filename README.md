@@ -1,11 +1,10 @@
-👋 Hi, I’m Rishav\
-👀 I ***WAS*** interested in Web Development, Android Development\
-📫 How to reach me:
-- Instagram: https://instagram.com/rishav_bozo (deactivated)
-- Twitter: https://twitter.com/HelioPhenomenal
-- Discord: Kami~#6360 (Deleted)\
+![image](https://github.com/rishav-the-kami/rishav-the-kami/assets/105970051/39a79c51-e23d-486b-8b6e-9bc8996b3924)👋 Hi, I’m Rishav\
+👀 Currently a React Native developer.
+
+- Instagram: @rishavsarkar.exe
+- Discord: simplyphenomenal
 \
-![alt text](https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwEC-W0K19v5TqcIjpzvJ0Ho)
+![Some cat crying gif](https://i.pinimg.com/originals/f3/6d/22/f36d221637a2b3a9627b23d500dfc74b.gif)
 <!---
 rishav-the-kami/rishav-the-kami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
