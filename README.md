@@ -2,7 +2,9 @@
 👀 Currently a React Native developer.\
 MERN Stack, Unity, Unreal Game Developer
 
-Find me: Instagram: @rishavsarkar.exe
+Find me on Instagram: @rishavsarkar.exe
+
+Email: rishavsarkar122@gmail.com
   
 ![Some cat crying gif](https://i.pinimg.com/originals/f3/6d/22/f36d221637a2b3a9627b23d500dfc74b.gif)
 <!---
