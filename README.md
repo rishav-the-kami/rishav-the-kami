@@ -1,5 +1,6 @@
 👋 Hi, I’m Rishav\
-👀 Currently a React Native developer.
+👀 Currently a React Native developer.\
+MERN Stack, Unity, Unreal Game Developer
 
 - Instagram: @rishavsarkar.exe
 - Discord: simplyphenomenal
